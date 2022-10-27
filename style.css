@@ -13,7 +13,7 @@ ul.sidenav {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: none;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -21,7 +21,7 @@ ul.sidenav {
 
 ul.sidenav li a {
   display: inline;
-  color: #000;
+  color: red;
   padding: 8px 16px;
   text-decoration: none;
 }
