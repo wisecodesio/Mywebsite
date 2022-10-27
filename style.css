@@ -6,7 +6,7 @@
 
 /* Custom Properties, update these for your own design */
    
-body {margin: 0;}
+
 
 ul.sidenav {
   list-style-type: none;
@@ -27,12 +27,12 @@ ul.sidenav li a {
 }
  
 ul.sidenav li a.active {
-  background-color: #4CAF50;
+  background-color: none;
   color: white;
 }
 
 ul.sidenav li a:hover:not(.active) {
-  background-color: #555;
+  background-color: red;
   color: white;
 }
 
