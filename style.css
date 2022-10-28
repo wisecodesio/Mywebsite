@@ -25,6 +25,7 @@ header {
 
 .links {
     list-style: none;
+    color: red;
 }
 
 .links li {
