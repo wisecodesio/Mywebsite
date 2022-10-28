@@ -9,7 +9,7 @@ li, a, button {
     font-family: "Montserrat" sans serif;
     font-weight: 500;
     font-size: 16px;
-    color: blue;
+    color: red;
     text-decoration: none;
     
 }
@@ -19,7 +19,7 @@ header {
     justify-content: space-between;
     align-items : center;
     padding: 30px 10%;
-    background-color: red;
+    background: black;
     
     
 }
@@ -56,7 +56,7 @@ button {
 }
 header p {
   cursor: pointer;
-  color: white;
+  color: red;
 }
 button:hover {
  background-color: orange;
@@ -120,60 +120,6 @@ header p {
 button:hover {
  background-color: orange;
  opacity: 0.9px;
-
-
-}
-li, a, button {
-    font-family: "Montserrat" sans serif;
-    font-weight: 500;
-    font-size: 16px;
-    color: blue;
-    text-decoration: none;
-    
-}
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items : center;
-    padding: 30px 10%
-    
-    
-}
-
-.nav_links {
-    list-style: none;
-}
-
-.nav_links li {
-    list-style: inline-block;
-    padding: 0px 20px;
-    
-}
-
-.nav_links li a {
-   transition: all 0.3s ease 0s;
-    
-}
-
-.nav_links li a:hover {
-   color: #0088a9;
-    
-}
-
-button {
-    padding: 9px 25px;
-    background-color: blue;
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
-   
-    
-}
-
-button:hover {
- background-color: pink;
-
 
 }
 
